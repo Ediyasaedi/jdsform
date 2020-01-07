@@ -1,0 +1,51 @@
+@charset "utf-8";
+/* CSS Document */
+
+body{
+	margin-left:0;
+	font-family: Avenir Next;
+	font-size:14px;
+}
+
+.logo {
+	height: 100px;
+	width: 450px;
+	margin-bottom: 30px;
+}
+
+
+.inputRound1 {
+	border-radius: 5px;
+	border: 1px solid black;
+	padding: 5px;
+	margin-bottom: 10px;
+	width: 300px;
+}
+
+.inputRound2 {
+	border-radius: 5px;
+	border: 1px solid black;
+	padding: 5px;
+	margin-bottom: 10px;
+	width: 200px;
+}
+
+.radio {
+	margin-bottom: 10px;
+	width: 10px;
+}
+
+.alamat {
+	text-align: right;
+}
+
+.btnRound1{
+	border-radius: 10px;
+	height: 40px;
+	width: 80px;
+	cursor: pointer;
+	font-size: 18px;
+	margin-top: 30px;
+	background-color: #EE220C;
+	color: white;
+}
